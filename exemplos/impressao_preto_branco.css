@@ -1,0 +1,14 @@
+@media print
+{
+    *
+    {
+        background: transparent !important;
+        color: #000 !important;
+    }
+}
+
+table
+{
+    border: 1px solid;
+    color: red;
+}
